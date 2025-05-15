@@ -14,7 +14,12 @@
 
 You can run the app locally or deploy it on [Streamlit Cloud](https://streamlit.io/cloud) to share a live version.
 
----
+How it Works
+embedder.py reads questions from qa_knowledge.json, encodes them into vectors using SentenceTransformer, and builds a FAISS index saved as vector_index.faiss.
+
+chatbot.py loads this index and questions, encodes the user's input, and retrieves the closest matching answer.
+
+app.py runs a Streamlit web app that takes user input and shows the corresponding answer.
 
 Features
 
@@ -89,4 +94,5 @@ I am passionate about software testing and AI-powered tools. This chatbot projec
 
 Contact
 Feel free to reach out via adreesmuhammad540@gmail.com
+Thank you for checking out my project!
 
