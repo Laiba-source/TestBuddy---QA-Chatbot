@@ -1,0 +1,66 @@
+[
+  {
+    "question": "What is boundary value analysis?",
+    "answer": "It is a testing technique that uses test cases with values at the edges of input ranges."
+  },
+  {
+    "question": "How to write a bug report?",
+    "answer": "Include bug title, steps to reproduce, expected and actual result, severity, and screenshots if needed."
+  },
+  {
+    "question": "What is regression testing?",
+    "answer": "Regression testing ensures that new code changes have not adversely affected existing functionality in a software application."
+  },
+  {
+    "question": "What is a test case?",
+    "answer": "A test case is a set of conditions or variables under which a tester will determine whether an application or software system is working correctly."
+  },
+  {
+    "question": "What is a test scenario?",
+    "answer": "A test scenario is a high-level idea of what to test. It focuses on the functionality or module to be tested, without going into detailed steps like a test case."
+  },
+  {
+    "question": "What is black-box testing?",
+    "answer": "Black-box testing is a software testing technique where the tester does not know the internal code structure. They test the software based on input and output."
+  },
+  {
+    "question": "What are Python decorators?",
+    "answer": "Decorators in Python are functions that modify the behavior of other functions. They are often used for logging, access control, and timing functions."
+  },
+  {
+    "question": "What is PyTest?",
+    "answer": "PyTest is a testing framework in Python used for writing simple and scalable test cases. It supports fixtures, parameterized testing, and plugins."
+  },
+  {
+    "question": "How can I become a software tester?",
+    "answer": "Start by learning the basics of software testing, including manual testing concepts like test cases, test plans, and bug reporting. Then, practice with real projects and explore automation tools like Selenium or PyTest."
+  },
+  {
+    "question": "What are the skills needed to become a good QA tester?",
+    "answer": "A good QA tester should understand software development, have strong attention to detail, be good at communication, and know testing tools and scripting languages like Python or JavaScript."
+  },
+  {
+    "question": "How do I start a career in QA without experience?",
+    "answer": "You can start by learning online, doing free testing certifications (like ISTQB Foundation), building personal projects, contributing to GitHub testing repos, and applying for internships or QA trainee roles."
+  },
+  {
+    "question": "What is the difference between manual testing and automation testing?",
+    "answer": "Manual testing is done by humans without scripts, while automation testing uses tools and scripts to test software automatically and repeatedly."
+  },
+  {
+    "question": "What is the role of QA in Agile?",
+    "answer": "In Agile, QA testers are involved throughout the development cycle. They participate in sprint planning, write test cases early, perform continuous testing, and ensure the quality of each user story."
+  },
+  {
+    "question": "What tools should I learn to become a QA tester?",
+    "answer": "Start with tools like Selenium (for automation), JIRA (for bug tracking), Postman (for API testing), PyTest or JUnit (for test scripting), TestRail (for test management), and Git (for version control)."
+  },
+  {
+    "question": "What should I know before becoming a QA tester?",
+    "answer": "You should understand SDLC, STLC, types of testing (unit, regression, UAT), how to write test cases and bug reports, basic SQL for databases, and some scripting in Python or Java."
+  },
+  {
+    "question": "Can you suggest some YouTube videos for learning QA testing?",
+    "answer": "Sure! Here are some helpful YouTube videos:\n1. 'Software Testing Full Course - Learn Manual Testing' by Simplilearn: https://www.youtube.com/watch?v=5j6sXyF4u9I\n2. 'QA Testing for Beginners' by freeCodeCamp: https://www.youtube.com/watch?v=ZfxvNNW5iXE\n3. 'Postman API Testing Tutorial' by Automation Step by Step: https://www.youtube.com/watch?v=VywxIQ2ZXw4\n4. 'Selenium Full Course' by Edureka: https://www.youtube.com/watch?v=FrYPG1oFFXk"
+  }
+]
